@@ -5,6 +5,8 @@ Made on top of [@WolfgangSenff](https://github.com/WolfgangSenff)'s [PostHogPlug
 
 ## Usage
 
+Put `posthog/` folder inside `res://addons/`
+
 Once the plugin is added, your project will get a new global setting, `Posthog API Key`
 ![image](https://github.com/WolfgangSenff/KylesGodotPlugins/assets/28108272/e5a277dd-9490-49ec-b2f5-8e4d6e16737f)
 
