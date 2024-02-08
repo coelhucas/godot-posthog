@@ -16,6 +16,8 @@ var _ev := PostHogEvent.new()
 _ev.event_name = "Your event name"
 _ev.distinct_id = "an unique identifier"
 _ev.properties = { "some_key": "a value", "another_key": "value" }
+
+PostHog.send_event(_ev)
 ```
 
 A `timestamp` is optional, will be set to the server one if none is sent.
