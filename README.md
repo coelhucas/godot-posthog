@@ -17,3 +17,8 @@ _ev.properties = { "some_key": "a value", "another_key": "value" }
 ```
 
 A `timestamp` is optional, will be set to the server one if none is sent.
+
+An example of a custom event send to their analytics dashboard:
+
+![image](https://github.com/coelhucas/godot-posthog/assets/28108272/98da1a88-159a-46b3-a04c-a633226922aa)
+
