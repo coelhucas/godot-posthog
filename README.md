@@ -1,7 +1,7 @@
 # Godot PostHog
 
 Integration of PostHog API for Godot 4.X
-Made on top of @WolfgangSenff's [PostHogPlugin](https://github.com/WolfgangSenff/KylesGodotPlugins/blob/master/PostHogPlugin/)
+Made on top of [@WolfgangSenff](https://github.com/WolfgangSenff)'s [PostHogPlugin](https://github.com/WolfgangSenff/KylesGodotPlugins/blob/master/PostHogPlugin/)
 
 ## Usage
 
